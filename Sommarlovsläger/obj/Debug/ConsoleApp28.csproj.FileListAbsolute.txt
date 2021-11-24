@@ -1,0 +1,56 @@
+C:\Users\Mr Aziz\source\repos\ConsoleApp28\ConsoleApp28\bin\Debug\ConsoleApp28.exe.config
+C:\Users\Mr Aziz\source\repos\ConsoleApp28\ConsoleApp28\bin\Debug\ConsoleApp28.exe
+C:\Users\Mr Aziz\source\repos\ConsoleApp28\ConsoleApp28\bin\Debug\ConsoleApp28.pdb
+C:\Users\Mr Aziz\source\repos\ConsoleApp28\ConsoleApp28\obj\Debug\ConsoleApp28.csproj.AssemblyReference.cache
+C:\Users\Mr Aziz\source\repos\ConsoleApp28\ConsoleApp28\obj\Debug\ConsoleApp28.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mr Aziz\source\repos\ConsoleApp28\ConsoleApp28\obj\Debug\ConsoleApp28.csproj.CoreCompileInputs.cache
+C:\Users\Mr Aziz\source\repos\ConsoleApp28\ConsoleApp28\obj\Debug\ConsoleApp28.exe
+C:\Users\Mr Aziz\source\repos\ConsoleApp28\ConsoleApp28\obj\Debug\ConsoleApp28.pdb
+C:\Users\abdul\source\repos\ConsoleApp28\ConsoleApp28\bin\Debug\ConsoleApp28.exe.config
+C:\Users\abdul\source\repos\ConsoleApp28\ConsoleApp28\bin\Debug\ConsoleApp28.exe
+C:\Users\abdul\source\repos\ConsoleApp28\ConsoleApp28\bin\Debug\ConsoleApp28.pdb
+C:\Users\abdul\source\repos\ConsoleApp28\ConsoleApp28\obj\Debug\ConsoleApp28.csproj.AssemblyReference.cache
+C:\Users\abdul\source\repos\ConsoleApp28\ConsoleApp28\obj\Debug\ConsoleApp28.csproj.SuggestedBindingRedirects.cache
+C:\Users\abdul\source\repos\ConsoleApp28\ConsoleApp28\obj\Debug\ConsoleApp28.csproj.CoreCompileInputs.cache
+C:\Users\abdul\source\repos\ConsoleApp28\ConsoleApp28\obj\Debug\ConsoleApp28.exe
+C:\Users\abdul\source\repos\ConsoleApp28\ConsoleApp28\obj\Debug\ConsoleApp28.pdb
+C:\Users\abdul\Git\inlamning\inlamning\bin\Debug\ConsoleApp28.exe.config
+C:\Users\abdul\Git\inlamning\inlamning\bin\Debug\ConsoleApp28.exe
+C:\Users\abdul\Git\inlamning\inlamning\bin\Debug\ConsoleApp28.pdb
+C:\Users\abdul\Git\inlamning\inlamning\obj\Debug\ConsoleApp28.csproj.AssemblyReference.cache
+C:\Users\abdul\Git\inlamning\inlamning\obj\Debug\ConsoleApp28.csproj.SuggestedBindingRedirects.cache
+C:\Users\abdul\Git\inlamning\inlamning\obj\Debug\ConsoleApp28.csproj.CoreCompileInputs.cache
+C:\Users\abdul\Git\inlamning\inlamning\obj\Debug\ConsoleApp28.exe
+C:\Users\abdul\Git\inlamning\inlamning\obj\Debug\ConsoleApp28.pdb
+C:\Users\Mr Aziz\source\repos\ConsoleApp28\inlamning\obj\Debug\ConsoleApp28.csproj.AssemblyReference.cache
+C:\Users\Mr Aziz\source\repos\ConsoleApp28\inlamning\obj\Debug\ConsoleApp28.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mr Aziz\source\repos\ConsoleApp28\inlamning\obj\Debug\ConsoleApp28.csproj.CoreCompileInputs.cache
+C:\Users\Mr Aziz\source\repos\ConsoleApp28\inlamning\bin\Debug\ConsoleApp28.exe.config
+C:\Users\Mr Aziz\source\repos\ConsoleApp28\inlamning\bin\Debug\ConsoleApp28.exe
+C:\Users\Mr Aziz\source\repos\ConsoleApp28\inlamning\bin\Debug\ConsoleApp28.pdb
+C:\Users\Mr Aziz\source\repos\ConsoleApp28\inlamning\obj\Debug\ConsoleApp28.exe
+C:\Users\Mr Aziz\source\repos\ConsoleApp28\inlamning\obj\Debug\ConsoleApp28.pdb
+C:\Users\abdul\Documents\GitHub\inlamning\obj\Debug\ConsoleApp28.csproj.AssemblyReference.cache
+C:\Users\abdul\Documents\GitHub\inlamning\obj\Debug\ConsoleApp28.csproj.SuggestedBindingRedirects.cache
+C:\Users\abdul\Documents\GitHub\inlamning\obj\Debug\ConsoleApp28.csproj.CoreCompileInputs.cache
+C:\Users\abdul\Documents\GitHub\inlamning\bin\Debug\ConsoleApp28.exe.config
+C:\Users\abdul\Documents\GitHub\inlamning\bin\Debug\ConsoleApp28.exe
+C:\Users\abdul\Documents\GitHub\inlamning\bin\Debug\ConsoleApp28.pdb
+C:\Users\abdul\Documents\GitHub\inlamning\obj\Debug\ConsoleApp28.exe
+C:\Users\abdul\Documents\GitHub\inlamning\obj\Debug\ConsoleApp28.pdb
+C:\Users\abdul\Desktop\inlamning\bin\Debug\ConsoleApp28.exe.config
+C:\Users\abdul\Desktop\inlamning\bin\Debug\ConsoleApp28.exe
+C:\Users\abdul\Desktop\inlamning\bin\Debug\ConsoleApp28.pdb
+C:\Users\abdul\Desktop\inlamning\obj\Debug\ConsoleApp28.csproj.AssemblyReference.cache
+C:\Users\abdul\Desktop\inlamning\obj\Debug\ConsoleApp28.csproj.SuggestedBindingRedirects.cache
+C:\Users\abdul\Desktop\inlamning\obj\Debug\ConsoleApp28.csproj.CoreCompileInputs.cache
+C:\Users\abdul\Desktop\inlamning\obj\Debug\ConsoleApp28.exe
+C:\Users\abdul\Desktop\inlamning\obj\Debug\ConsoleApp28.pdb
+C:\Users\Mr Aziz\Desktop\tet\obj\Debug\ConsoleApp28.csproj.AssemblyReference.cache
+C:\Users\Mr Aziz\Desktop\tet\obj\Debug\ConsoleApp28.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mr Aziz\Desktop\tet\obj\Debug\ConsoleApp28.csproj.CoreCompileInputs.cache
+C:\Users\Mr Aziz\Desktop\tet\obj\Debug\ConsoleApp28.exe
+C:\Users\Mr Aziz\Desktop\tet\obj\Debug\ConsoleApp28.pdb
+C:\Users\Mr Aziz\Desktop\tet\bin\Debug\ConsoleApp28.exe.config
+C:\Users\Mr Aziz\Desktop\tet\bin\Debug\ConsoleApp28.exe
+C:\Users\Mr Aziz\Desktop\tet\bin\Debug\ConsoleApp28.pdb
